@@ -30,7 +30,7 @@ elif datetime.date(year=1970, month=11, day=22) <= input_date <= datetime.date(y
 else:
     print('Козерог')
 
-print('Коммит')
+
 
 
 
